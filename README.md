@@ -1,6 +1,6 @@
 EGCvf
 =====
-Tutoriel utilisation de git:
+Tutoriel utilisation de gitBash:
 
 
 Première utilisation:
