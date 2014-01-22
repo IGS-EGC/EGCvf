@@ -1,0 +1,103 @@
+html {
+	overflow: -moz-scrollbars-vertical;
+	overflow-y: scroll;
+	overflow-x: auto;
+}
+
+body {
+	font-family: "Abadi MT Condensed Light";
+	height:100%;
+}
+
+#menu {
+	font-family: "Dolce Vita";
+}
+
+#footer {
+    width:100%;
+	margin-top: 20px;
+	padding-top: 14px;
+	border-top: 2px solid rgb(91, 212, 206); /* couleur LESS */
+	/*border-bottom: 2px solid rgb(91, 212, 206);  couleur LESS */
+	background-color: #bbb;					/* couleur LESS */
+	color: white;							/* couleur LESS */
+	font-size: small;
+	clear:both;
+}
+
+#site {
+	background: url("http://www.iris-interactive.fr/wp-content/themes/iris-interactive/images/bg-stratePaper.jpg") repeat scroll left top white;
+	background: url("http://telagram.me/wp-content/themes/default/img/stitched_wool.png") repeat scroll left top white;
+}
+
+
+/* --- MENU --- */
+#banniere {
+	padding: 5px 0px;
+}
+
+
+.navbar {  /*-- MODIFIER POUR NE PAS INFLUENCER SUR LE RESTE */
+	border-radius: 0px;	
+}
+
+
+/*
+#menu{
+	background-color: rgb(23, 155, 225);
+}
+
+#menu a:{
+	background-color: rgb(23, 155, 225);
+}
+
+#menu a:hover{
+	color: black;
+	background-color: #41cdc6;
+}
+
+#menu a:focus{
+	color: black;
+	background-color: #41cdc6;
+}
+
+.dropdown-menu{
+	background-color: rgb(23, 155, 225);
+}
+*/
+
+
+.jumbotron {
+	font-size: 12pt;
+	padding-top: 20px;
+	/*background-color: rgb(230,230,230);*/
+}
+
+.jumbotron > h2 {
+	padding-bottom: 10px;
+}
+
+@font-face {
+    font-family: 'Dolce Vita';
+    src: url('../fonts/Dolce Vita.ttf');
+   
+}
+
+
+@font-face {
+    font-family: 'Britannic Bold';
+    src: url('../fonts/Britannic Bold.ttf');
+   
+}
+
+@font-face {
+    font-family: 'Abadi MT Condensed Light';
+    src: url('../fonts/Abadi MT Condensed Light.ttf');
+   
+}
+
+h2 {
+	font-family: "Britannic Bold";
+}
+
+
