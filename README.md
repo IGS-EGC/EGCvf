@@ -22,5 +22,9 @@ git commit -m "votre message"//pour enregistrer des modifs
 git push                     // pour mettre en ligne vos modifs
 
 
-Si questions: tuto site zéro:
+Si questions: 
+
+tuto site zéro:
 http://fr.openclassrooms.com/informatique/cours/gerez-vos-codes-source-avec-git/annuler-un-commit-effectue-par-erreur
+commandes en plus:
+https://wiki.bordeaux.inria.fr/runtime/doku.php?id=git-svn
