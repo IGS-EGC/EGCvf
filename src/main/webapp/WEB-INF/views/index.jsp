@@ -10,7 +10,6 @@
 	<meta name="author" content="">
 	
 	<link href="resources/css/bootstrap.min.css" rel="stylesheet">
-	<link href="resources/css/style.css" rel="stylesheet">
 	<link href="resources/css/notreStyle.css" rel="stylesheet">
 	
 	<script type="text/javascript" src="resources/js/jquery.js"></script>
@@ -19,7 +18,7 @@
 </head>
 
 <body>
-	<h3>Répertoire : ${rep} - Page : ${page}</h3>
+<%-- 	<h3>Répertoire : ${rep} - Page : ${page}</h3> --%>
 	<!-- Header -->
 	<jsp:include page="jsp/header.jsp"></jsp:include>
 	
